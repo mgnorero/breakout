@@ -1,6 +1,6 @@
 # Classic 80's Game: Breakout
 
-![Breakout Gameplay]
+![Breakout Gameplay](breakout_screenshot.png)
 
 Relive the nostalgia of the 80's. Immerse yourself in the excitement of breaking bricks, controlling the paddle, and bouncing the ball to achieve high scores.
 
