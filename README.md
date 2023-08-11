@@ -23,7 +23,7 @@ Relive the nostalgia of the 80's. Immerse yourself in the excitement of breaking
 ## Get Started
 
 1. Clone this repository to your local machine.
-2. Open the `main.py` file in your web browser.
+2. Run the `main.py` file in your development environment.
 3. Enjoy the Breakout experience and have a blast breaking bricks!
 
 ## Contributing
