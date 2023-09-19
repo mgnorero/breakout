@@ -20,6 +20,13 @@ Relive the nostalgia of the 80's. Immerse yourself in the excitement of breaking
 3. Prevent the ball from falling below the paddle to maintain your lives.
 4. Clear all the briks, aim for high scores!
 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+- **Python 3.9** or higher installed.
+- Python library:
+  - **turtle** - Used for creating the game's graphics. (pip install PythonTurtle)
+
 ## Get Started
 
 1. Clone this repository to your local machine.
